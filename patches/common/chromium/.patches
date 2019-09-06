@@ -1,3 +1,4 @@
+enable_vaapi_on_linux.patch
 add_realloc.patch
 build_gn.patch
 dcheck.patch
@@ -82,4 +83,3 @@ frame_host_manager.patch
 crashpad_pid_check.patch
 chore_add_debounce_on_the_updatewebcontentsvisibility_method_to.patch
 fix_use_weakptr_to_detect_deletion.patch
-enable_vaapi_on_linux.patch
