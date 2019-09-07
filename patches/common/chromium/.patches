@@ -1,3 +1,4 @@
+enable_vaapi_on_linux.patch
 portals_fix_crash_when_detaching_oopif_from_portal.patch
 add_realloc.patch
 build_gn.patch
